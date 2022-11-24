@@ -7,23 +7,49 @@ Klávesnice
 - Tab
 - Page Up, Page Down
 - ovládání pomocí kl. zkratek - podtržené znaky
+- Del vs Backspace
 - přesun textového kurzoru
   - kurzorové šipky
   - Ctrl + šipky
   - Ctrl + PgUp/Down
+- Ctrl + Del, Ctrl + Backspace
+- Alt + Tab
+- Super + Tab (Windows i Linux)
+- Shift + šipky
+- internetový prohlížeč
+  - F11
+  - Ctrl + W
+  - Ctrl + T
+  - Ctrl + scrolling v prohlížeči (zoom in/out)
+  - prostřední tl. myši na tabech stránek (Linux)
+- spuštění aplikace podle názvu (Windows, např. dmenu na Linuxu)
+
 
 Myš
-- ozna
-- AltDrag (Windows)
-- LAlt + drag & drop
+- double click do textu (slovo)
+- triple click do textu (odstavec)
+- move & resize window
+  - AltDrag (Windows)
+  - LAlt + drag & drop (Linux, obvykle)
+- schránky na linuxu
+  - Ctrl + C/V
+  - prostřední tl. myši kdekoli v systému
+
+
 
 Práce se soubory
 - Ctrl + A
+- Ctrl + I (Linux, ověřit na Windows)
 - Ctrl + click, Shift + click
-- Drag & Drop, s pravým tl. myši
+- Drag & Drop s levým/pravým tl. myši přesun souboru ve správci souborů
+  - + Shift
+  - + Ctrl + Shift
+
+Dialogová okna
+- F10
+- Tab
 
 Tabulátor
 - v textovém procesoru
 - v tabulkovém procesoru
-- v dialogových oknech
-
+- ukázat elinks :-)
