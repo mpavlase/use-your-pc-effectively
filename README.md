@@ -16,13 +16,7 @@ Klávesnice
 - Alt + Tab
 - Super + Tab (Windows i Linux)
 - Shift + šipky
-- internetový prohlížeč
-  - F11
-  - Ctrl + W
-  - Ctrl + T
-  - Ctrl + scrolling v prohlížeči (zoom in/out)
-  - prostřední tl. myši na tabech stránek (Linux)
-- spuštění aplikace podle názvu (Windows, např. dmenu na Linuxu)
+- spuštění aplikace podle názvu (Windows, např. `dmenu` na Linuxu)
 
 
 Myš
@@ -35,6 +29,15 @@ Myš
   - Ctrl + C/V
   - prostřední tl. myši kdekoli v systému
 
+
+
+Internetový prohlížeč
+- F11
+- Ctrl + W
+- Ctrl + T
+- Ctrl + scrolling v prohlížeči (zoom in/out)
+- prostřední tl. myši na tabech stránek (Linux)
+- Ctrl + šipky vpravo/vlevo
 
 
 Práce se soubory
