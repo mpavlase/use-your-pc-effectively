@@ -13,10 +13,12 @@ Klávesnice
   - Ctrl + šipky
   - Ctrl + PgUp/Down
 - Ctrl + Del, Ctrl + Backspace
+- Ctrl + X
 - Alt + Tab
 - Super + Tab (Windows i Linux)
 - Shift + šipky
-- spuštění aplikace podle názvu (Windows, např. `dmenu` na Linuxu)
+- spuštění aplikace podle názvu (Windows, např. `dmenu` či Alt+F2 na Linuxu)
+- smazání řádku (označit i \n z řádku výše)
 
 
 Myš
