@@ -19,6 +19,7 @@ Klávesnice
 - Shift + šipky
 - spuštění aplikace podle názvu (Windows, např. `dmenu` či Alt+F2 na Linuxu)
 - smazání řádku (označit i \n z řádku výše)
+- mazání textu mezerníkem
 
 
 Myš
