@@ -11,13 +11,13 @@ Klávesnice
 - přesun textového kurzoru
   - kurzorové šipky
   - Ctrl + šipky
-  - Ctrl + PgUp/Down
 - Ctrl + Del, Ctrl + Backspace
 - Ctrl + X
+- Ctrl + Z (při úpravě textu kdekoli v systému, ne ale pro smazané soubory!)
 - Alt + Tab
 - Super + Tab (Windows i Linux)
 - Shift + šipky
-- spuštění aplikace podle názvu (Windows, např. `dmenu` či Alt+F2 na Linuxu)
+- spuštění aplikace podle názvu (Windows, na Linuxu Alt+F2, či `dmenu_run` či Alt+F2 na Linuxu)
 - smazání řádku (označit i \n z řádku výše)
 - mazání textu mezerníkem
 
@@ -29,7 +29,7 @@ Myš
   - AltDrag (Windows)
   - LAlt + drag & drop (Linux, obvykle)
 - schránky na linuxu
-  - Ctrl + C/V
+  - Ctrl + C, Ctrl + V
   - prostřední tl. myši kdekoli v systému
 
 
@@ -44,9 +44,10 @@ Internetový prohlížeč
 
 
 Práce se soubory
+- **Windows:** Win + E, spustí Průzkumníka ("E" jako Explorer)
 - Ctrl + A
-- Ctrl + I (Linux, ověřit na Windows)
 - Ctrl + click, Shift + click
+- Ctrl + kurzorové šipky + mezerník
 - Drag & Drop s levým/pravým tl. myši přesun souboru ve správci souborů
   - + Shift
   - + Ctrl + Shift
