@@ -48,6 +48,7 @@ Práce se soubory
 - **Windows:** Win + E, spustí Průzkumníka ("E" jako Explorer)
 - Ctrl + A
 - Ctrl + click, Shift + click
+- Alt + šipka nahoru
 - Ctrl + kurzorové šipky + mezerník
 - Drag & Drop s levým/pravým tl. myši přesun souboru ve správci souborů
   - + Shift
