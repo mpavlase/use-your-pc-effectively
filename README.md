@@ -38,6 +38,7 @@ Internetový prohlížeč
 - F11
 - Ctrl + W
 - Ctrl + T
+- Ctrl + L, Ctrl + K
 - Ctrl + scrolling v prohlížeči (zoom in/out)
 - prostřední tl. myši na tabech stránek (Linux)
 - Ctrl + šipky vpravo/vlevo
