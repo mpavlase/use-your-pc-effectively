@@ -10,7 +10,7 @@
 ## Označení textu, znaků
 - `Shift` + přesun textového kurzoru (viz výše)
   Například:
-  - označit následující 2 znaky `Shift` + 2x `vpravo`
+  - označit následující 2 znaky `Shift` + `2x vpravo`
   - označit předchozí celé slovo `Ctrl` + `Shift` + `vlevo`
   - označit následující řádek (necelý) `Shift` + `dolů`
 - `Ctrl` + `a` označí úplně vše v oblasti, kde bylo naposledy kliknuto (text, soubory ve složce)
@@ -18,37 +18,37 @@
 
 
 ## Myš
-- 1x klik levým tl. myši: přesun textového kurzoru kdekoliv
-- 2x klik levým tl. myši: označí celé slovo
-- 3x klik levým tl. myši: označí celý řádek
+- `1x klik levým tl. myši`: přesun textového kurzoru kdekoliv
+- `2x klik levým tl. myši`: označí celé slovo
+- `3x klik levým tl. myši`: označí celý řádek
 
 
-## Kopírování, přesouvání
-- vybrat k následnému kopírování: `Ctrl` + `c`
-- vybrat k následnému vyjmutí: `Ctrl` + `x`
-- vložit (z kopírování, z vyjmutí) `Ctrl` + `v`
+## Kopírování, přesouvání (textu, souborů, ...)
+- `Ctrl` + `c`: vybrat k následnému kopírování
+- `Ctrl` + `x`: vybrat k následnému vyjmutí
+- `Ctrl` + `v`: vložit (z kopírování, z vyjmutí)
 
 ## Mazání
-- smazat znak doprava `Delete`
-- smazat znak doleva `Backspace`
-- smazat slovo doprava `Ctrl` + `Delete`
-- smazat slovo doleva `Ctrl` + `Backspace`
+- `Delete` smazat znak doprava
+- `Backspace` smazat znak doleva
+- `Ctrl` + `Delete` smazat slovo doprava
+- `Ctrl` + `Backspace` smazat slovo doleva
 
-## Příkazová řádka (bash, cmd, PowerShell)
-- vepsat předchozí příkaz do aktuální výzvy (promptu): šipka nahoru
-- doplňování názvů souborů: napíšu prvních pár znaků z názvu, zbytek nechám doplnit pomocí `Tab`
-- stále funguje skákání po slovech přes `Ctrl` + šipky
+## Příkazová řádka (bash, cmd, PowerShell, ...)
+- `šipka nahoru` vepsat předchozí příkaz do aktuální výzvy (promptu), možno i opakovaně. V některých terminálech funguje pouze, pokud není zatím nic vypsáno ručně.
+- `Tab` doplňování názvů souborů. Napíšu prvních pár znaků z názvu, zbytek si nechám doplnit
+- stále funguje skákání po slovech přes `Ctrl` + `šipky`
 
 
 ## Finty pro celý operační systém, práce s okny
-- `Ctrl` + `z` "zpět" při úpravě textu (editace názvu souboru, vyplněné pole ve formuláři, ...)
+- `Ctrl` + `z`: "zpět" při úpravě textu (editace názvu souboru, vyplněné pole ve formuláři, ...)
 - Pouze Windows: `Start` + napsat prvních pár znaků z názvu programu. Jiné operační systémy používají odlišné způsoby
 
   Například pro program *Poznámkový blok*
-  - `Pozn` funguje,
+  - `pozn` funguje (nerozlišují se velikosti písmen),
   - `blo` **ne**funguje, nutno zadávat pouze od počátečních písmen
 
-- `Alt` + `Tab`: přepne na poslední, příp. ostatní otevřená okna
+- (držet) `Alt` + `Tab`: přepne na poslední, příp. ostatní otevřená okna
 - `Alt` + `F4`: uzavření aktuálního okna
 
 
@@ -71,6 +71,8 @@
 - prostřední tl. myši na odkazu: otevře odkaz v novém tabu
 - `Ctrl` + `Page Up`/`Page Down`: přepínání mezi taby na vlevo/vpravo od aktuálního
 - `Alt` + šipky vlevo/vpravo: přechod na stránku zpět/vpřed
+- `mezerník`, `Page Down`, posune celou stránku o jednu obrazovku dolů
+- `Shift` + `mezerník`, `Page Up`, posune celou stránku o jednu obrazovku nahoru
 
 
 ## Práce se soubory, správce souborů
