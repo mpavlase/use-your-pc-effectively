@@ -76,7 +76,8 @@
 
 
 ## Práce se soubory, správce souborů
-- **Windows:** `Windows` + `e`, spustí Průzkumníka (**e** jako Explorer)
+- **Windows:** spustí Průzkumníka `Windows` + `e`, (**e** jako Explorer)
+- **Windows:** otevřít příkazovou řádku z aktuální složky: klepnu do adresního řádku v Průzkumníkovi, veškerý stávající text (cestu) nahradím za `cmd` a zmáčknu `Enter`
 - `Ctrl` + levé tl. myši na ikony: přidá/odebere tento konkrétní soubor do výběru
 - `Shift` + levé tl. myši na ikony: přidá/odebere souvislou řadu od posledního vybraného souboru
 - `Alt` + `šipka nahoru`: přejde do nadřazené složky
